@@ -7,7 +7,6 @@ K2 = 5.0   # Spring constant for next-nearest connections (N/m)
 K3 = 2.0   # Spring constant for opposite connections (N/m)
 # Number of oscillators
 N = 6
-
 # Initialize the stiffness matrix K as a zero matrix
 K = np.zeros((N, N))
 
