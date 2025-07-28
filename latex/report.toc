@@ -1,0 +1,147 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview of the Project}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objectives}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Relevance to the Physics of Waves}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Structure of the Report}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Conclusion of the Introduction}{5}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Part 1: Simulation of Two Coupled Oscillators}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Task 1: Modeling the System}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}System Parameters}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Equations of Motion}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Code Implementation}{7}{subsection.2.1.3}%
+\contentsline {subsubsection}{Visualizing the Results}{7}{section*.2}%
+\contentsline {subsection}{\numberline {2.1.4}Results and Visualization}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Discussion}{7}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Code Explanation}{9}{subsection.2.1.6}%
+\contentsline {subsubsection}{Importing Libraries}{9}{section*.4}%
+\contentsline {subsubsection}{Defining System Parameters}{9}{section*.5}%
+\contentsline {subsubsection}{Defining the Equations of Motion}{9}{section*.6}%
+\contentsline {subsubsection}{Implementing the Runge-Kutta 4th Order Method}{9}{section*.7}%
+\contentsline {subsubsection}{Setting Initial Conditions and Time Parameters}{10}{section*.8}%
+\contentsline {subsubsection}{Performing the Integration}{10}{section*.9}%
+\contentsline {subsubsection}{Visualizing the Results}{10}{section*.10}%
+\contentsline {subsection}{\numberline {2.1.7}Discussion of Implementation Choices}{11}{subsection.2.1.7}%
+\contentsline {subsubsection}{Choice of Runge-Kutta 4th Order Method}{11}{section*.11}%
+\contentsline {subsubsection}{Time Step Selection}{11}{section*.12}%
+\contentsline {subsubsection}{Initial Conditions}{11}{section*.13}%
+\contentsline {subsubsection}{Manual Implementation vs. Built-in Solvers}{11}{section*.14}%
+\contentsline {subsubsection}{Potential Enhancements}{11}{section*.15}%
+\contentsline {subsection}{\numberline {2.1.8}Conclusion of Task 2}{11}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Code Explanation}{12}{subsection.2.1.9}%
+\contentsline {subsubsection}{Importing Libraries}{12}{section*.16}%
+\contentsline {subsubsection}{Defining System Parameters}{12}{section*.17}%
+\contentsline {subsubsection}{Defining the Equations of Motion}{12}{section*.18}%
+\contentsline {subsubsection}{Implementing the Runge-Kutta 4th Order Method}{12}{section*.19}%
+\contentsline {subsubsection}{Setting Initial Conditions and Time Parameters}{13}{section*.20}%
+\contentsline {subsubsection}{Performing the Integration}{13}{section*.21}%
+\contentsline {subsubsection}{Visualizing the Results}{13}{section*.22}%
+\contentsline {subsection}{\numberline {2.1.10}Discussion of Implementation Choices}{14}{subsection.2.1.10}%
+\contentsline {subsubsection}{Choice of Runge-Kutta 4th Order Method}{14}{section*.23}%
+\contentsline {subsubsection}{Time Step Selection}{14}{section*.24}%
+\contentsline {subsubsection}{Initial Conditions}{14}{section*.25}%
+\contentsline {subsubsection}{Manual Implementation vs. Built-in Solvers}{14}{section*.26}%
+\contentsline {subsubsection}{Potential Enhancements}{14}{section*.27}%
+\contentsline {subsection}{\numberline {2.1.11}Conclusion of Task 2}{14}{subsection.2.1.11}%
+\contentsline {section}{\numberline {2.2}Task 3: Visual Simulation of Normal Modes}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}System Parameters and Normal Mode Frequencies}{15}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Initial Conditions and Angle Calculations}{15}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Position Calculation Function}{16}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Summary of Mathematical Modeling}{16}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Inclusion of Code in Appendix}{17}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Task 4: Normal Modes Analysis}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}System Parameters and Normal Mode Frequencies}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Initial Conditions and Angle Calculations}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Mathematical Modeling of Normal Modes}{19}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Results and Angular Frequencies}{19}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Visualization of Normal Modes}{19}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Discussion}{19}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Conclusion of Task 4}{20}{subsection.2.3.7}%
+\contentsline {section}{\numberline {2.4}Task 5: Conclusion}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Analysis of Simulation Results}{21}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Diagrams Illustrating Normal Modes}{21}{subsection.2.4.2}%
+\contentsline {subsubsection}{Free-Body Diagram}{22}{section*.31}%
+\contentsline {subsubsection}{Normal Modes Diagram}{22}{section*.33}%
+\contentsline {subsection}{\numberline {2.4.3}Physical Significance of Normal Modes}{23}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Summary}{23}{subsection.2.4.4}%
+\contentsline {chapter}{\numberline {3}Part 2: Advanced Wave Simulations with Mass-Spring Systems}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Task 1: Extending to Multiple Oscillators}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Task 1: Define the System}{24}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}System Parameters}{24}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Construction of the Stiffness Matrix (\( \mathbf {K} \))}{24}{subsection.3.2.2}%
+\contentsline {subsubsection}{Symmetry Considerations}{25}{section*.35}%
+\contentsline {subsubsection}{Resulting Stiffness Matrix}{26}{section*.36}%
+\contentsline {subsection}{\numberline {3.2.3}Free-Body Diagram}{26}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Summary}{27}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Task 2: Eigenvalue Problem}{28}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Review of System Parameters}{28}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Construction of the Stiffness Matrix (\( \mathbf {K} \))}{28}{subsection.3.3.2}%
+\contentsline {subsubsection}{Mathematical Formulation}{28}{section*.38}%
+\contentsline {subsubsection}{Implementation in Python}{29}{section*.39}%
+\contentsline {subsubsection}{Resulting Stiffness Matrix}{29}{section*.40}%
+\contentsline {subsection}{\numberline {3.3.3}Eigenvalue and Eigenvector Computation}{30}{subsection.3.3.3}%
+\contentsline {subsubsection}{Mathematical Formulation}{30}{section*.41}%
+\contentsline {subsubsection}{Implementation in Python}{30}{section*.42}%
+\contentsline {subsubsection}{Resulting Eigenvalues and Eigenvectors}{31}{section*.43}%
+\contentsline {subsection}{\numberline {3.3.4}Interpretation of Eigenvalues and Eigenvectors}{31}{subsection.3.3.4}%
+\contentsline {subsubsection}{Eigenvalues (\( \omega ^2 \))}{31}{section*.44}%
+\contentsline {subsubsection}{Eigenvectors (Normal Modes)}{32}{section*.45}%
+\contentsline {subsection}{\numberline {3.3.5}Mathematical Derivation of the Eigenvalue Problem}{32}{subsection.3.3.5}%
+\contentsline {subsubsection}{Equations of Motion}{32}{section*.46}%
+\contentsline {subsubsection}{Normal Mode Analysis}{33}{section*.47}%
+\contentsline {subsubsection}{Solution Method}{33}{section*.48}%
+\contentsline {subsection}{\numberline {3.3.6}Results}{33}{subsection.3.3.6}%
+\contentsline {subsubsection}{Stiffness Matrix (\( \mathbf {K} \))}{33}{section*.49}%
+\contentsline {subsubsection}{Eigenvalues (\( \omega ^2 \))}{34}{section*.50}%
+\contentsline {subsubsection}{Eigenvectors (Normal Modes)}{34}{section*.51}%
+\contentsline {subsection}{\numberline {3.3.7}Discussion of Results}{34}{subsection.3.3.7}%
+\contentsline {subsubsection}{Eigenvalues Analysis}{34}{section*.52}%
+\contentsline {subsubsection}{Eigenvectors Analysis}{34}{section*.53}%
+\contentsline {subsubsection}{Implications of Degeneracy}{35}{section*.54}%
+\contentsline {subsection}{\numberline {3.3.8}Mathematical Derivation of the Eigenvalue Problem}{35}{subsection.3.3.8}%
+\contentsline {subsubsection}{Equations of Motion}{35}{section*.55}%
+\contentsline {subsubsection}{Matrix Formulation}{36}{section*.56}%
+\contentsline {subsubsection}{Normal Mode Assumption}{36}{section*.57}%
+\contentsline {subsubsection}{Solution via Eigenvalue Decomposition}{36}{section*.58}%
+\contentsline {subsection}{\numberline {3.3.9}Conclusion of Task 2}{37}{subsection.3.3.9}%
+\contentsline {section}{\numberline {3.4}Task 3: Visual Simulation}{38}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Approach to Visualization}{38}{subsection.3.4.1}%
+\contentsline {subsubsection}{Normal Mode Representation}{38}{section*.59}%
+\contentsline {subsection}{\numberline {3.4.2}Mathematical Foundations of the Simulation}{38}{subsection.3.4.2}%
+\contentsline {subsubsection}{Eigenvectors and Displacement Patterns}{38}{section*.60}%
+\contentsline {subsubsection}{Angular Frequencies}{39}{section*.61}%
+\contentsline {subsection}{\numberline {3.4.3}Effects of Symmetry on Oscillatory Behavior}{39}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Visualization of Normal Modes}{39}{subsection.3.4.4}%
+\contentsline {subsubsection}{Description of Subplots}{39}{section*.63}%
+\contentsline {subsection}{\numberline {3.4.5}Implications of the Visual Simulation}{41}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Conclusion of Task 3}{41}{subsection.3.4.6}%
+\contentsline {section}{\numberline {3.5}Analysis of Normal Modes}{42}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Calculation of Angular Frequencies}{42}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Oscillation Patterns of Normal Modes}{42}{subsection.3.5.2}%
+\contentsline {subsubsection}{Mode 1: Rigid-Body Rotation}{43}{section*.66}%
+\contentsline {subsubsection}{Modes 2 and 3: Degenerate Modes}{43}{section*.67}%
+\contentsline {subsubsection}{Mode 4: Higher-Frequency Mode}{43}{section*.68}%
+\contentsline {subsubsection}{Modes 5 and 6: Highest-Frequency Degenerate Modes}{43}{section*.69}%
+\contentsline {subsection}{\numberline {3.5.3}Influence of Symmetry on Normal Modes and Frequencies}{44}{subsection.3.5.3}%
+\contentsline {subsubsection}{Degeneracy of Normal Modes}{44}{section*.70}%
+\contentsline {subsubsection}{Phase Relationships and Oscillatory Patterns}{44}{section*.71}%
+\contentsline {subsubsection}{Energy Distribution and Frequency Ordering}{44}{section*.72}%
+\contentsline {subsubsection}{Stability of Normal Modes}{44}{section*.73}%
+\contentsline {subsection}{\numberline {3.5.4}Visualization of Oscillation Patterns}{45}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Discussion}{45}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Conclusion}{45}{subsection.3.5.6}%
+\contentsline {section}{\numberline {3.6}Conclusion}{46}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Summary of Findings}{46}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Implications of Symmetry on Coupled Oscillators}{46}{subsection.3.6.2}%
+\contentsline {subsubsection}{Degeneracy of Normal Modes}{46}{section*.75}%
+\contentsline {subsubsection}{Phase Synchronization}{46}{section*.76}%
+\contentsline {subsubsection}{Energy Distribution and Stability}{47}{section*.77}%
+\contentsline {subsection}{\numberline {3.6.3}Physical Significance of Normal Modes in Symmetric Systems}{47}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Final Remarks}{47}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Summary of the Project}{48}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Key Findings}{48}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Implications of Symmetry on Coupled Oscillator Systems}{48}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Degeneracy of Normal Modes}{48}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Phase Synchronization and Coherent Oscillations}{49}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Energy Distribution and System Stability}{49}{subsection.3.9.3}%
+\contentsline {section}{\numberline {3.10}Physical Significance of Normal Modes}{49}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Final Remarks and Future Work}{49}{section.3.11}%
